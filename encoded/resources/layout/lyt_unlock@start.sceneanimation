@@ -1,0 +1,2018 @@
+{
+    "duration": 4.816666666666666,
+    "animations": [
+        {
+            "worldNodePath": [
+                "N_halo"
+            ],
+            "type": "float",
+            "propertyId": "LocalScaleX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 2.3333333333333335,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1,
+                        1.2,
+                        0.15999999839999998
+                    ]
+                },
+                {
+                    "time": 3.1666666666666665,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0.8,
+                        0.15999999839999998,
+                        -0.048
+                    ]
+                },
+                {
+                    "time": 7.333333333333333,
+                    "value": 0.8
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_halo"
+            ],
+            "type": "float",
+            "propertyId": "LocalScaleY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 2.3333333333333335,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1,
+                        1.2,
+                        0.15999999839999998
+                    ]
+                },
+                {
+                    "time": 3.1666666666666665,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0.8,
+                        0.15999999839999998,
+                        -0.048
+                    ]
+                },
+                {
+                    "time": 7.333333333333333,
+                    "value": 0.8
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_halo"
+            ],
+            "type": "float",
+            "propertyId": "LocalRotation",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 2.3333333333333335,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        3.141592653589793,
+                        0.471238898038469,
+                        0.471238898038469
+                    ]
+                },
+                {
+                    "time": 9,
+                    "value": 3.141592653589793
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_12",
+                "sprite_flash_12"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 2.4166666666666665,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        300,
+                        189.473691,
+                        189.473691
+                    ]
+                },
+                {
+                    "time": 4,
+                    "value": 300
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_12",
+                "sprite_flash_12"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 2.4166666666666665,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        300,
+                        189.473691,
+                        189.473691
+                    ]
+                },
+                {
+                    "time": 4,
+                    "value": 300
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_11",
+                "sprite_flash_11"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 3.25,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -400,
+                        -252.63158819999998,
+                        -252.63158819999998
+                    ]
+                },
+                {
+                    "time": 4.833333333333333,
+                    "value": -400
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_11",
+                "sprite_flash_11"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 3.25,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        200,
+                        126.3157938,
+                        126.3157938
+                    ]
+                },
+                {
+                    "time": 4.833333333333333,
+                    "value": 200
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_01",
+                "sprite_flash_01"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 4.083333333333333,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        200,
+                        126.3157938,
+                        126.3157938
+                    ]
+                },
+                {
+                    "time": 5.666666666666667,
+                    "value": 200
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_01",
+                "sprite_flash_01"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 4.083333333333333,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -400,
+                        -252.63158819999998,
+                        -252.63158819999998
+                    ]
+                },
+                {
+                    "time": 5.666666666666667,
+                    "value": -400
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_02",
+                "sprite_flash_02"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 2.8333333333333335,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -300,
+                        -189.473691,
+                        -189.473691
+                    ]
+                },
+                {
+                    "time": 4.416666666666667,
+                    "value": -300
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_02",
+                "sprite_flash_02"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 2.8333333333333335,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -300,
+                        -189.473691,
+                        -189.473691
+                    ]
+                },
+                {
+                    "time": 4.416666666666667,
+                    "value": -300
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_03",
+                "sprite_flash_03"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 2.6666666666666665,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        400,
+                        252.63158819999998,
+                        252.63158819999998
+                    ]
+                },
+                {
+                    "time": 4.25,
+                    "value": 400
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_03",
+                "sprite_flash_03"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 2.6666666666666665,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -200,
+                        -126.3157938,
+                        -126.3157938
+                    ]
+                },
+                {
+                    "time": 4.25,
+                    "value": -200
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_04",
+                "sprite_flash_04"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 4.5,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -200,
+                        -126.3157938,
+                        -126.3157938
+                    ]
+                },
+                {
+                    "time": 6.083333333333333,
+                    "value": -200
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_04",
+                "sprite_flash_04"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 4.5,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        400,
+                        252.63158819999998,
+                        252.63158819999998
+                    ]
+                },
+                {
+                    "time": 6.083333333333333,
+                    "value": 400
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_05",
+                "sprite_flash_05"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 4.083333333333333,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        300,
+                        189.473691,
+                        189.473691
+                    ]
+                },
+                {
+                    "time": 5.666666666666667,
+                    "value": 300
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_05",
+                "sprite_flash_05"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 4.083333333333333,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        300,
+                        189.473691,
+                        189.473691
+                    ]
+                },
+                {
+                    "time": 5.666666666666667,
+                    "value": 300
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_06",
+                "sprite_flash_06"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 4.916666666666667,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_06",
+                "sprite_flash_06"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 4.916666666666667,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_07",
+                "sprite_flash_07"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 5.75,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_07",
+                "sprite_flash_07"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 5.75,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_08",
+                "sprite_flash_08"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 4.5,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -300,
+                        -189.473691,
+                        -189.473691
+                    ]
+                },
+                {
+                    "time": 6.083333333333333,
+                    "value": -300
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_08",
+                "sprite_flash_08"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 4.5,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -300,
+                        -189.473691,
+                        -189.473691
+                    ]
+                },
+                {
+                    "time": 6.083333333333333,
+                    "value": -300
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_09",
+                "sprite_flash_09"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 4.333333333333333,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        400,
+                        252.63158819999998,
+                        252.63158819999998
+                    ]
+                },
+                {
+                    "time": 5.916666666666667,
+                    "value": 400
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_09",
+                "sprite_flash_09"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 4.333333333333333,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -200,
+                        -126.3157938,
+                        -126.3157938
+                    ]
+                },
+                {
+                    "time": 5.916666666666667,
+                    "value": -200
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_10",
+                "sprite_flash_10"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 6.166666666666667,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_10",
+                "sprite_flash_10"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 6.166666666666667,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_halo2"
+            ],
+            "type": "float",
+            "propertyId": "LocalScaleX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 2.3333333333333335,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1,
+                        1.2,
+                        0.48
+                    ]
+                },
+                {
+                    "time": 3.1666666666666665,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0.8,
+                        0.48,
+                        0
+                    ]
+                },
+                {
+                    "time": 4,
+                    "interp": "hermite",
+                    "value": [
+                        0.8,
+                        1,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "time": 4.833333333333333,
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_halo2"
+            ],
+            "type": "float",
+            "propertyId": "LocalScaleY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 2.3333333333333335,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1,
+                        1.2,
+                        0.48
+                    ]
+                },
+                {
+                    "time": 3.1666666666666665,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0.8,
+                        0.48,
+                        0
+                    ]
+                },
+                {
+                    "time": 4,
+                    "interp": "hermite",
+                    "value": [
+                        0.8,
+                        1,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "time": 4.833333333333333,
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_halo2"
+            ],
+            "type": "float",
+            "propertyId": "LocalRotation",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 2.3333333333333335,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1.5707963267948966,
+                        0.2356194490192345,
+                        0.2356194490192345
+                    ]
+                },
+                {
+                    "time": 9,
+                    "value": 1.5707963267948966
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "sprite_present_box"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 2.3333333333333335,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0,
+                        -3,
+                        -3
+                    ]
+                },
+                {
+                    "time": 2.6666666666666665,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_halo"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 2.3333333333333335,
+                    "interp": "linear",
+                    "value": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "time": 3,
+                    "value": 1
+                },
+                {
+                    "time": 7.333333333333333,
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_12",
+                "sprite_flash_12"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 3.1666666666666665,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.3333333333333335,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.4166666666666665,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.5833333333333335,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.6666666666666665,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.75,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.8333333333333335,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.9166666666666665,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.083333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.416666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.583333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.666666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.75,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.833333333333333,
+                    "value": 0.19607843137254902
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_12"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 3.1666666666666665,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        0
+                    ]
+                },
+                {
+                    "time": 3.5,
+                    "value": 1
+                },
+                {
+                    "time": 3.6666666666666665,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0,
+                        0,
+                        -3
+                    ]
+                },
+                {
+                    "time": 4,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_11"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 4,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        0
+                    ]
+                },
+                {
+                    "time": 4.333333333333333,
+                    "value": 1
+                },
+                {
+                    "time": 4.5,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0,
+                        0,
+                        -3
+                    ]
+                },
+                {
+                    "time": 4.833333333333333,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_11",
+                "sprite_flash_11"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 4,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.083333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.416666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.583333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.666666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.75,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.833333333333333,
+                    "value": 0.19607843137254902
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_01"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 4.833333333333333,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_01",
+                "sprite_flash_01"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 4.833333333333333,
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_02"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 3.5833333333333335,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        0
+                    ]
+                },
+                {
+                    "time": 3.9166666666666665,
+                    "value": 1
+                },
+                {
+                    "time": 4.083333333333333,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0,
+                        0,
+                        -3
+                    ]
+                },
+                {
+                    "time": 4.416666666666667,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_02",
+                "sprite_flash_02"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 3.5833333333333335,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.6666666666666665,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.75,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.8333333333333335,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.9166666666666665,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.083333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.416666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.583333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.666666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.75,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.833333333333333,
+                    "value": 0.19607843137254902
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_03"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 3.4166666666666665,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        0
+                    ]
+                },
+                {
+                    "time": 3.75,
+                    "value": 1
+                },
+                {
+                    "time": 3.9166666666666665,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0,
+                        0,
+                        -3
+                    ]
+                },
+                {
+                    "time": 4.25,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_03",
+                "sprite_flash_03"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 3.4166666666666665,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.5833333333333335,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.6666666666666665,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.75,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.8333333333333335,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 3.9166666666666665,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.083333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.416666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.583333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.666666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.75,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 4.833333333333333,
+                    "value": 0.19607843137254902
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_04"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 5.25,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_04",
+                "sprite_flash_04"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 5.25,
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_05"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 4.833333333333333,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_05",
+                "sprite_flash_05"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 4.833333333333333,
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_06"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 5.666666666666667,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_06",
+                "sprite_flash_06"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 5.666666666666667,
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_07"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 6.5,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_07",
+                "sprite_flash_07"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 6.5,
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_08"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 5.25,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_08",
+                "sprite_flash_08"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 5.25,
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_09"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 5.083333333333333,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_09",
+                "sprite_flash_09"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 5.083333333333333,
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_10"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 6.916666666666667,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_10",
+                "sprite_flash_10"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 6.916666666666667,
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_halo2"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 2.3333333333333335,
+                    "interp": "linear",
+                    "value": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "time": 3,
+                    "value": 1
+                },
+                {
+                    "time": 7.333333333333333,
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "sprite_present_box"
+            ],
+            "type": "resource",
+            "componentType": "TextureComponent",
+            "propertyId": "Texture",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": "660a6847-1aa0-4351-9e34-3273c3197074"
+                },
+                {
+                    "time": 2,
+                    "value": "660a6847-1aa0-4351-9e34-3273c3197074"
+                },
+                {
+                    "time": 2.1,
+                    "value": "f7174bd7-1392-4803-9018-cbc2c5e13386"
+                },
+                {
+                    "time": 2.1666666666666665,
+                    "value": "660a6847-1aa0-4351-9e34-3273c3197074"
+                },
+                {
+                    "time": 2.2666666666666666,
+                    "value": "f7174bd7-1392-4803-9018-cbc2c5e13386"
+                },
+                {
+                    "time": 2.3333333333333335,
+                    "value": "660a6847-1aa0-4351-9e34-3273c3197074"
+                }
+            ]
+        }
+    ]
+}

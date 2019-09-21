@@ -1,0 +1,27 @@
+{
+    "duration": 0.1,
+    "animations": [
+        {
+            "worldNodePath": [
+                "Sprite_Blind"
+            ],
+            "type": "float",
+            "componentType": "TextureComponent",
+            "propertyId": "Width",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "interp": "linear",
+                    "value": [
+                        160,
+                        0
+                    ]
+                },
+                {
+                    "time": 0.1,
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}

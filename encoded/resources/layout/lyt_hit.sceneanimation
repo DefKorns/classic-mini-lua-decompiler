@@ -1,0 +1,66 @@
+{
+    "duration": 3.5,
+    "animations": [
+        {
+            "worldNodePath": [
+                "Anim_Hit"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 0.1,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        65,
+                        780,
+                        0
+                    ]
+                },
+                {
+                    "time": 0.18333333333333332,
+                    "interp": "hermite",
+                    "value": [
+                        65,
+                        0,
+                        0,
+                        -780
+                    ]
+                },
+                {
+                    "time": 0.26666666666666666,
+                    "value": 0
+                },
+                {
+                    "time": 0.45,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        50,
+                        750,
+                        0
+                    ]
+                },
+                {
+                    "time": 0.5166666666666667,
+                    "interp": "hermite",
+                    "value": [
+                        50,
+                        0,
+                        0,
+                        -999.99996
+                    ]
+                },
+                {
+                    "time": 0.5666666666666667,
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}

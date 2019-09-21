@@ -1,0 +1,33 @@
+{
+    "duration": 0.016666666666666666,
+    "animations": [
+        {
+            "worldNodePath": [
+                "N_Translate"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_Translate",
+                "Sprite_Luigi_0"
+            ],
+            "type": "resource",
+            "componentType": "TextureComponent",
+            "propertyId": "Texture",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": "6eb4c41a-375b-4e8c-8e84-65d307e71560"
+                }
+            ]
+        }
+    ]
+}

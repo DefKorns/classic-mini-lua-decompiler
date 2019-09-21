@@ -1,0 +1,9 @@
+[submodule "luajit-decomp"]
+	path = luajit-decomp
+	url = https://github.com/bobsayshilol/luajit-decomp
+[submodule "modules/luajit"]
+	path = modules/luajit
+	url = https://github.com/bobsayshilol/luajit-decomp
+[submodule "modules/decompiler"]
+	path = modules/decompiler
+	url = https://gitlab.com/znixian/luajit-decompiler

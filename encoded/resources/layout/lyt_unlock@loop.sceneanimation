@@ -1,0 +1,2856 @@
+{
+    "duration": 1.65,
+    "animations": [
+        {
+            "worldNodePath": [
+                "N_halo"
+            ],
+            "type": "float",
+            "propertyId": "LocalScaleX",
+            "keyCurves": [
+                {
+                    "time": -1.6666666666666667,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0.8,
+                        0.15999999839999998,
+                        -0.048
+                    ]
+                },
+                {
+                    "time": 2.5,
+                    "interp": "linear",
+                    "value": [
+                        0.8,
+                        2
+                    ]
+                },
+                {
+                    "time": 4.166666666666667,
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_halo"
+            ],
+            "type": "float",
+            "propertyId": "LocalScaleY",
+            "keyCurves": [
+                {
+                    "time": -1.6666666666666667,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0.8,
+                        0.15999999839999998,
+                        -0.048
+                    ]
+                },
+                {
+                    "time": 2.5,
+                    "interp": "linear",
+                    "value": [
+                        0.8,
+                        2
+                    ]
+                },
+                {
+                    "time": 4.166666666666667,
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_halo"
+            ],
+            "type": "float",
+            "propertyId": "LocalRotation",
+            "keyCurves": [
+                {
+                    "time": -2.5,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        3.141592653589793,
+                        0.471238898038469,
+                        0.471238898038469
+                    ]
+                },
+                {
+                    "time": 4.166666666666667,
+                    "value": 3.141592653589793
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_12",
+                "sprite_flash_12"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": -0.8333333333333334,
+                    "value": 300
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_12",
+                "sprite_flash_12"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": -0.8333333333333334,
+                    "value": 300
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_11",
+                "sprite_flash_11"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": -400
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_11",
+                "sprite_flash_11"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 200
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_01",
+                "sprite_flash_01"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": -0.75,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        200,
+                        126.3157938,
+                        126.3157938
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "value": 200
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_01",
+                "sprite_flash_01"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": -0.75,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -400,
+                        -252.63158819999998,
+                        -252.63158819999998
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "value": -400
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_02",
+                "sprite_flash_02"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": -0.4166666666666667,
+                    "value": -300
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_02",
+                "sprite_flash_02"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": -0.4166666666666667,
+                    "value": -300
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_03",
+                "sprite_flash_03"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": -0.5833333333333334,
+                    "value": 400
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_03",
+                "sprite_flash_03"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": -0.5833333333333334,
+                    "value": -200
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_04",
+                "sprite_flash_04"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": -0.3333333333333333,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -200,
+                        -126.3157938,
+                        -126.3157938
+                    ]
+                },
+                {
+                    "time": 1.25,
+                    "value": -200
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_04",
+                "sprite_flash_04"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": -0.3333333333333333,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        400,
+                        252.63158819999998,
+                        252.63158819999998
+                    ]
+                },
+                {
+                    "time": 1.25,
+                    "value": 400
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_05",
+                "sprite_flash_05"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": -0.75,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        300,
+                        189.473691,
+                        189.473691
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "value": 300
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_05",
+                "sprite_flash_05"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": -0.75,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        300,
+                        189.473691,
+                        189.473691
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "value": 300
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_06",
+                "sprite_flash_06"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 0.08333333333333333,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -400,
+                        -252.63158819999998,
+                        -252.63158819999998
+                    ]
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "value": -400
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_06",
+                "sprite_flash_06"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 0.08333333333333333,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        200,
+                        126.3157938,
+                        126.3157938
+                    ]
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "value": 200
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_07",
+                "sprite_flash_07"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 0.9166666666666666,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        200,
+                        126.3157938,
+                        126.3157938
+                    ]
+                },
+                {
+                    "time": 2.5,
+                    "value": 200
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_07",
+                "sprite_flash_07"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 0.9166666666666666,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -400,
+                        -252.63158819999998,
+                        -252.63158819999998
+                    ]
+                },
+                {
+                    "time": 2.5,
+                    "value": -400
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_08",
+                "sprite_flash_08"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": -0.3333333333333333,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -300,
+                        -189.473691,
+                        -189.473691
+                    ]
+                },
+                {
+                    "time": 1.25,
+                    "value": -300
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_08",
+                "sprite_flash_08"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": -0.3333333333333333,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -300,
+                        -189.473691,
+                        -189.473691
+                    ]
+                },
+                {
+                    "time": 1.25,
+                    "value": -300
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_09",
+                "sprite_flash_09"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": -0.5,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        400,
+                        252.63158819999998,
+                        252.63158819999998
+                    ]
+                },
+                {
+                    "time": 1.0833333333333333,
+                    "value": 400
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_09",
+                "sprite_flash_09"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": -0.5,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -200,
+                        -126.3157938,
+                        -126.3157938
+                    ]
+                },
+                {
+                    "time": 1.0833333333333333,
+                    "value": -200
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_10",
+                "sprite_flash_10"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 1.3333333333333333,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        -200,
+                        -126.3157938,
+                        -126.3157938
+                    ]
+                },
+                {
+                    "time": 2.9166666666666665,
+                    "value": -200
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_10",
+                "sprite_flash_10"
+            ],
+            "type": "float",
+            "propertyId": "LocalPositionY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 1.3333333333333333,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        400,
+                        252.63158819999998,
+                        252.63158819999998
+                    ]
+                },
+                {
+                    "time": 2.9166666666666665,
+                    "value": 400
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_halo2"
+            ],
+            "type": "float",
+            "propertyId": "LocalScaleX",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0.8,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "interp": "hermite",
+                    "value": [
+                        0.8,
+                        1,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0.8,
+                        0,
+                        -0.23999998320000002
+                    ]
+                },
+                {
+                    "time": 2.5,
+                    "interp": "linear",
+                    "value": [
+                        0.8,
+                        2
+                    ]
+                },
+                {
+                    "time": 4.166666666666667,
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_halo2"
+            ],
+            "type": "float",
+            "propertyId": "LocalScaleY",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0.8,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "interp": "hermite",
+                    "value": [
+                        0.8,
+                        1,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0.8,
+                        0,
+                        -0.23999998320000002
+                    ]
+                },
+                {
+                    "time": 2.5,
+                    "interp": "linear",
+                    "value": [
+                        0.8,
+                        2
+                    ]
+                },
+                {
+                    "time": 4.166666666666667,
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_halo2"
+            ],
+            "type": "float",
+            "propertyId": "LocalRotation",
+            "keyCurves": [
+                {
+                    "time": -2.5,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1.5707963267948966,
+                        0.2356194490192345,
+                        0.2356194490192345
+                    ]
+                },
+                {
+                    "time": 4.166666666666667,
+                    "value": 1.5707963267948966
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "sprite_present_box"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": -2.1666666666666665,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_halo"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": -1.8333333333333333,
+                    "value": 1
+                },
+                {
+                    "time": 2.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "time": 3.1666666666666665,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_12",
+                "sprite_flash_12"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.08333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.16666666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5833333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.6666666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.75,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.9166666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.0833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.1666666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "value": 0.19607843137254902
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_12"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": -0.8333333333333334,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_11"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_11",
+                "sprite_flash_11"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.08333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.16666666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5833333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.6666666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.75,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.9166666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.0833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.1666666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "value": 0.19607843137254902
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_01"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        0
+                    ]
+                },
+                {
+                    "time": 0.3333333333333333,
+                    "value": 1
+                },
+                {
+                    "time": 0.5,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0,
+                        0,
+                        -3
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_01",
+                "sprite_flash_01"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.08333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.16666666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5833333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.6666666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.75,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.9166666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.0833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.1666666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "value": 0.19607843137254902
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_02"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": -0.4166666666666667,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_02",
+                "sprite_flash_02"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.08333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.16666666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5833333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.6666666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.75,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.9166666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.0833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.1666666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "value": 0.19607843137254902
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_03"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": -0.5833333333333334,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_03",
+                "sprite_flash_03"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.08333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.16666666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5833333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.6666666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.75,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.9166666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.0833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.1666666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "value": 0.19607843137254902
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_04"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 0.4166666666666667,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        0
+                    ]
+                },
+                {
+                    "time": 0.75,
+                    "value": 1
+                },
+                {
+                    "time": 0.9166666666666666,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0,
+                        0,
+                        -3
+                    ]
+                },
+                {
+                    "time": 1.25,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_04",
+                "sprite_flash_04"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 0.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5833333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.6666666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.75,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.9166666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.0833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.1666666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "value": 0.19607843137254902
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_05"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        0
+                    ]
+                },
+                {
+                    "time": 0.3333333333333333,
+                    "value": 1
+                },
+                {
+                    "time": 0.5,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0,
+                        0,
+                        -3
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_05",
+                "sprite_flash_05"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.08333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.16666666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5833333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.6666666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.75,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.9166666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.0833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.1666666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "value": 0.19607843137254902
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_06"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        0
+                    ]
+                },
+                {
+                    "time": 1.1666666666666667,
+                    "value": 1
+                },
+                {
+                    "time": 1.3333333333333333,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0,
+                        0,
+                        -3
+                    ]
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_06",
+                "sprite_flash_06"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.9166666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.0833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.1666666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "value": 0.19607843137254902
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_07"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        0
+                    ]
+                },
+                {
+                    "time": 2,
+                    "value": 1
+                },
+                {
+                    "time": 2.1666666666666665,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0,
+                        0,
+                        -3
+                    ]
+                },
+                {
+                    "time": 2.5,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_07",
+                "sprite_flash_07"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.75,
+                    "value": 0.19607843137254902
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_08"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 0.4166666666666667,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        0
+                    ]
+                },
+                {
+                    "time": 0.75,
+                    "value": 1
+                },
+                {
+                    "time": 0.9166666666666666,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0,
+                        0,
+                        -3
+                    ]
+                },
+                {
+                    "time": 1.25,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_08",
+                "sprite_flash_08"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 0.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5833333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.6666666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.75,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.9166666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.0833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.1666666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "value": 0.19607843137254902
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_09"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 0.25,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        0
+                    ]
+                },
+                {
+                    "time": 0.5833333333333334,
+                    "value": 1
+                },
+                {
+                    "time": 0.75,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0,
+                        0,
+                        -3
+                    ]
+                },
+                {
+                    "time": 1.0833333333333333,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_09",
+                "sprite_flash_09"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 0.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.5833333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.6666666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.75,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.8333333333333334,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 0.9166666666666666,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.0833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.1666666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.25,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.3333333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.4166666666666667,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.5833333333333333,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 1.6666666666666667,
+                    "value": 0.19607843137254902
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_10"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 2.0833333333333335,
+                    "interp": "hermite",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        0
+                    ]
+                },
+                {
+                    "time": 2.4166666666666665,
+                    "value": 1
+                },
+                {
+                    "time": 2.5833333333333335,
+                    "interp": "hermite",
+                    "value": [
+                        1,
+                        0,
+                        0,
+                        -3
+                    ]
+                },
+                {
+                    "time": 2.9166666666666665,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_flash_all",
+                "N_flash_10",
+                "sprite_flash_10"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 2.0833333333333335,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0.19607843137254902
+                    ]
+                },
+                {
+                    "time": 2.1666666666666665,
+                    "value": 0.19607843137254902
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "N_halo2"
+            ],
+            "type": "float",
+            "propertyId": "Alpha",
+            "keyCurves": [
+                {
+                    "time": -1.8333333333333333,
+                    "value": 1
+                },
+                {
+                    "time": 2.5,
+                    "interp": "linear",
+                    "value": [
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "time": 3.1666666666666665,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "worldNodePath": [
+                "sprite_present_box"
+            ],
+            "type": "resource",
+            "componentType": "TextureComponent",
+            "propertyId": "Texture",
+            "keyCurves": [
+                {
+                    "time": -2.5,
+                    "value": "660a6847-1aa0-4351-9e34-3273c3197074"
+                }
+            ]
+        }
+    ]
+}
