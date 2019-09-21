@@ -15,7 +15,7 @@
 #  along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #
 $FolderPath = Get-Location;
-$ModulesPath="$FolderPath/modules"
+$ModulesPath = "$FolderPath/modules"
 $LuaPath = "$FolderPath/encoded/resources";
 $DecodedPath = "$FolderPath/decoded";
 $RecodedPath = "$FolderPath/recoded";
@@ -76,7 +76,7 @@ do {
 			ForEach-Object {
 				Try {
 					$DecFile = $_.FullName
-					$RecFile = $_.DirectoryName+'\'+$_.BaseName
+					$RecFile = $_.DirectoryName + '\' + $_.BaseName
 
 					Write-Host "$(Get-Date -UFormat '%Y-%m-%d %H:%M:%S'):"$RecFile":"
 					& $LuaJit/luajit.exe -b $DecFile $RecFile
